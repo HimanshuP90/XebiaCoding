@@ -26,8 +26,9 @@ class Welcome extends React.Component {
         return (
             <div className="jumbotron">
             <div className="container">
-            <h1>The Star Wars Begin soon .... !!!</h1>
-                <br/>
+            <h1>Welcome to Star Wars @ Xebia</h1>
+                <hr/>
+            <p>Please login for play star war</p>
             </div>
             {planetsObject}
             </div>
